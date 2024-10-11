@@ -8,7 +8,6 @@ export default defineConfig({
   title: "Zssyyds2的笔记本",
   description: "Record learning",
   outDir: "docs", //打包输出的目录
-  base: "/notes/", //部署到github pages的路径
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "Zssyyds2的笔记本",
